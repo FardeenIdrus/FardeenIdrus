@@ -17,7 +17,7 @@ Built mobile/tablet app for 10-location restaurant chain using Flutter, implemen
 
 ## 🚀 Featured Projects
 
-### [Consent Model Simulation Tool](https://github.com/FardeenIdrus/consent-visualisation)
+### [Consent Model Simulation Tool](https://github.com/FardeenIdrus/consent_visualisation_tool)
 *Recommended for publication by dissertation supervisor*
 - Flutter app evaluating user preferences for digital privacy consent models
 - Conducted research with 30+ academic papers and user study with 10 participants
@@ -30,17 +30,17 @@ Built mobile/tablet app for 10-location restaurant chain using Flutter, implemen
 - Real-time messaging and forum features using Firebase
 - **Tech:** Flutter, Firebase, Cross-platform iOS/Android
 
-### [AI Fundamental Analyst Agent](https://github.com/FardeenIdrus/fundamental-analyst-ai)
+### [AI Fundamental Analyst Agent](https://github.com/FardeenIdrus/fundamental_analyst_agent)
 - Automated financial analysis: downloads statements, calculates ratios, performs DCF valuation
 - Generates AI-powered investment memos using GPT-4
 - **Tech:** Python, yfinance, pandas, OpenAI API
 
-### [Autonomous Patrol Robot](https://github.com/FardeenIdrus/patrol-robot)
+### [Autonomous Patrol Robot](https://github.com/FardeenIdrus/PatrolRobot)
 - Computer vision-based rule enforcement robot using YOLOv4 object detection
 - Autonomous multi-room navigation with SMACH state machines
 - **Tech:** ROS, Python, YOLOv4, AMCL, Move Base
 
-### [Video Editing DSL](https://github.com/FardeenIdrus/video-edit-dsl)
+### [Video Editing DSL](https://github.com/FardeenIdrus/EDL_DSML)
 - Domain-specific language for video editing with automatic EDL generation
 - Built complete language toolchain using Xtext framework
 - **Tech:** Xtext, EMF, ANTLR, Java, Xtend
