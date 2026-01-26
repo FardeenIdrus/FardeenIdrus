@@ -30,10 +30,12 @@ Built mobile/tablet app for 10-location restaurant chain using Flutter, implemen
 - Real-time messaging and forum features using Firebase
 - **Tech:** Flutter, Firebase, Cross-platform iOS/Android
 
-### [AI Fundamental Analyst Agent](https://github.com/FardeenIdrus/fundamental_analyst_agent)
-- Automated financial analysis: downloads statements, calculates ratios, performs DCF valuation
-- Generates AI-powered investment memos using GPT-4
-- **Tech:** Python, yfinance, pandas, OpenAI API
+### [AI Technical Analyst Agent](https://github.com/FardeenIdrus/Technical-Analyst-Agent)
+- Quantitative trading system: computes 10 technical indicators, detects market regimes via Hurst exponent, generates BUY/SELL signals through multi-indicator confluence
+- Backtests strategies over 10 years with Monte Carlo simulation (1000 runs) to validate statistical significance
+- Calculates optimal position sizing using Kelly criterion and GARCH volatility forecasting
+- Generates AI-powered investment reports with scenario analysis using Claude/GPT-4
+- **Tech**: Python, VectorBT, yfinance, pandas, scipy, Anthropic/OpenAI API, ReportLab
 
 ### [Autonomous Patrol Robot](https://github.com/FardeenIdrus/PatrolRobot)
 - Computer vision-based rule enforcement robot using YOLOv4 object detection
