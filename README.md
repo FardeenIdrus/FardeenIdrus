@@ -17,6 +17,13 @@ Built mobile/tablet app for 10-location restaurant chain using Flutter, implemen
 
 ## 🚀 Featured Projects
 
+### [AI Technical Analyst Agent](https://github.com/FardeenIdrus/Technical-Analyst-Agent)
+- Quantitative trading system: computes 10 technical indicators, detects market regimes via Hurst exponent, generates BUY/SELL signals through multi-indicator confluence
+- Backtests strategies over 10 years with Monte Carlo simulation (1000 runs) to validate statistical significance
+- Calculates optimal position sizing using Kelly criterion and GARCH volatility forecasting
+- Generates AI-powered investment reports with scenario analysis using Claude/GPT-4
+- **Tech**: Python, VectorBT, yfinance, pandas, scipy, Anthropic/OpenAI API, ReportLab
+
 ### [Consent Model Simulation Tool](https://github.com/FardeenIdrus/consent_visualisation_tool)
 *Recommended for publication by dissertation supervisor*
 - Flutter app evaluating user preferences for digital privacy consent models
@@ -29,13 +36,6 @@ Built mobile/tablet app for 10-location restaurant chain using Flutter, implemen
 - Led 10-developer team, delivered ahead of schedule
 - Real-time messaging and forum features using Firebase
 - **Tech:** Flutter, Firebase, Cross-platform iOS/Android
-
-### [AI Technical Analyst Agent](https://github.com/FardeenIdrus/Technical-Analyst-Agent)
-- Quantitative trading system: computes 10 technical indicators, detects market regimes via Hurst exponent, generates BUY/SELL signals through multi-indicator confluence
-- Backtests strategies over 10 years with Monte Carlo simulation (1000 runs) to validate statistical significance
-- Calculates optimal position sizing using Kelly criterion and GARCH volatility forecasting
-- Generates AI-powered investment reports with scenario analysis using Claude/GPT-4
-- **Tech**: Python, VectorBT, yfinance, pandas, scipy, Anthropic/OpenAI API, ReportLab
 
 ### [Autonomous Patrol Robot](https://github.com/FardeenIdrus/PatrolRobot)
 - Computer vision-based rule enforcement robot using YOLOv4 object detection
