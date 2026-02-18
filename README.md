@@ -7,7 +7,6 @@ I'm passionate about building intelligent systems at the intersection of **AI/ML
 
 ## 🔭 What I'm Working On
 
-- **AI-Powered Fundamental Analyst Agent** - Automated financial analysis tool that downloads data, calculates ratios, performs DCF valuation, and generates investment memos using GPT-4
 - **Quantitative Finance Projects** - Applying machine learning to financial markets and trading strategies
 
 ## 💼 Experience
