@@ -12,6 +12,9 @@ I'm passionate about building intelligent systems at the intersection of **AI/ML
 ## [130/30 Multi-Factor Equity Strategy](https://github.com/FardeenIdrus/multifactor-equity-strategy)
 Currently building a 130/30 long-short equity strategy with Dockerised data infrastructure (PostgreSQL, MongoDB, MinIO) and walk-forward backtesting. Combines Value, Quality, Momentum, and Low Volatility factors with dynamic IC-based weighting and realistic transaction cost modelling.
 
+### [Tabular Transformer for Credit Default](https://github.com/FardeenIdrus/credit-default-tabular-transformer)
+Building self-attention and transformer blocks from scratch for credit risk classification on UCI Taiwan Credit dataset. Senior developer overseeing pipeline architecture, comparing against tuned Random Forest baseline.
+
 ##  Experience
 
 **Software Engineer Intern** @ N2N Connect Berhad  
