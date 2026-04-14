@@ -5,16 +5,16 @@
 
 I'm passionate about building intelligent systems at the intersection of **AI/ML and finance**. Currently exploring applications in quantitative finance, algorithmic trading, and decentralized systems.
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 - **Quantitative Finance Projects** - Applying machine learning to financial markets and trading strategies
 
-## 💼 Experience
+##  Experience
 
 **Software Engineer Intern** @ N2N Connect Berhad  
 Built mobile/tablet app for 10-location restaurant chain using Flutter, implementing multilingual support and workflow optimization features.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 
 ### [Integrated Investment Management System](https://github.com/FardeenIdrus/master-analyst-agent)
@@ -65,7 +65,7 @@ Generates institutional-grade investment memos with multi-scenario forward analy
 **Finance:** pandas • yfinance • NumPy • Quantitative Analysis  
 **Tools:** Git • Linux • Eclipse • VS Code
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardeenidrus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fardeenidrus123@gmail.com)
