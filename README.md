@@ -27,7 +27,7 @@ Built mobile/tablet app for 10-location restaurant chain using Flutter, implemen
 - Aggregates risk metrics from component agents including Value-at-Risk, maximum drawdown projections, correlation matrices, and sector exposure concentrations for portfolio-level risk management
 - Generates comprehensive investment committee memos with dissenting viewpoints, sensitivity analysis across multiple scenarios, and explicit reasoning chains explaining final capital allocation decisions
 - Applies hierarchical decision framework: individual agent outputs → cross-validation layer → risk overlay → final portfolio construction with position sizing and rebalancing triggers
-**Tech:** Python, LangChain, multi-agent coordination, Claude Sonnet 4, JSON orchestration, pandas, custom integration layer, asyncio
+**Tech:** Python, LangChain, multi-agent coordination, Claude Sonnet 4.5, JSON orchestration, pandas, custom integration layer, asyncio
 
 ### [Quantitative Alpha Engine](https://github.com/FardeenIdrus/Technical-Analyst-Agent)
 - Implements 10-factor momentum and mean-reversion framework using RSI, MACD, Bollinger Bands, ATR, and moving average crossovers with weighted confluence scoring to generate high-conviction signals
