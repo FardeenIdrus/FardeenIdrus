@@ -9,6 +9,9 @@ I'm passionate about building intelligent systems at the intersection of **AI/ML
 
 - **Quantitative Finance Projects** - Applying machine learning to financial markets and trading strategies
 
+## [130/30 Multi-Factor Equity Strategy](https://github.com/FardeenIdrus/multifactor-equity-strategy)
+Currently building a 130/30 long-short equity strategy with Dockerised data infrastructure (PostgreSQL, MongoDB, MinIO) and walk-forward backtesting. Combines Value, Quality, Momentum, and Low Volatility factors with dynamic IC-based weighting and realistic transaction cost modelling.
+
 ##  Experience
 
 **Software Engineer Intern** @ N2N Connect Berhad  
