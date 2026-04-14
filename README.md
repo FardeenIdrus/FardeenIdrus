@@ -67,6 +67,7 @@ Generates institutional-grade investment memos with multi-scenario forward analy
 **AI/ML:** TensorFlow • PyTorch • scikit-learn • OpenAI API  
 **Finance:** pandas • yfinance • NumPy • Quantitative Analysis  
 **Tools:** Git • Linux • Eclipse • VS Code
+**Data Infrastructure:** PostgreSQL • MongoDB • MinIO • Docker • SQLAlchemy
 
 ##  Let's Connect
 
