@@ -5,12 +5,12 @@
 
 I'm passionate about building intelligent systems at the intersection of **AI/ML and finance**. Currently exploring applications in quantitative finance, algorithmic trading, and decentralized systems.
 
-##  What I'm Working On
+## What I'm Working On
 
-- **Quantitative Finance Projects** - Applying machine learning to financial markets and trading strategies
+* Quantitative Finance Projects — Applying machine learning to financial markets and trading strategies
 
-## [130/30 Multi-Factor Equity Strategy](https://github.com/FardeenIdrus/multifactor-equity-strategy)
-Currently building a 130/30 long-short equity strategy with Dockerised data infrastructure (PostgreSQL, MongoDB, MinIO) and walk-forward backtesting. Combines Value, Quality, Momentum, and Low Volatility factors with dynamic IC-based weighting and realistic transaction cost modelling.
+[130/30 Multi-Factor Equity Strategy](https://github.com/FardeenIdrus/130-30-Multi-Factor-Strategy)
+Sector-neutral 130/30 long-short equity strategy with Dockerised data infrastructure (PostgreSQL, MongoDB, MinIO) and walk-forward backtesting across 23 scenarios. Combines Value, Quality, Momentum, and Low Volatility factors with IC-based dynamic weighting, EWMA volatility-adjusted weights, and realistic transaction cost modelling. 542 tests at 99% coverage.
 
 ### [Tabular Transformer for Credit Default](https://github.com/FardeenIdrus/credit-default-tabular-transformer)
 Building self-attention and transformer blocks from scratch for credit risk classification on UCI Taiwan Credit dataset. Senior developer overseeing pipeline architecture, comparing against tuned Random Forest baseline.
