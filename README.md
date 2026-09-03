@@ -1,6 +1,6 @@
 # Hi, I'm Fardeen 👋
 
-**MSc Digital Finance & Banking** @ University College London  
+**MSc Banking & Digital Finance** @ University College London  
 **BSc Computer Science** @ King's College London
 
 I'm passionate about building intelligent systems at the intersection of **AI/ML and finance**. Currently exploring applications in quantitative finance, algorithmic trading, and decentralized systems.
@@ -8,6 +8,9 @@ I'm passionate about building intelligent systems at the intersection of **AI/ML
 ## What I'm Working On
 
 * Quantitative Finance Projects — Applying machine learning to financial markets and trading strategies
+
+### [Deep Reinforcement Learning for Order Execution on Hyperliquid](https://github.com/FardeenIdrus/drl-optimal-order-execution)
+MSc dissertation. Reconstructs the BTC perpetual limit order book event by event from Level 4 data (5.36M states), calibrates a queue-reactive simulator to it, and tests whether DQN and PPO agents can beat TWAP on implementation shortfall. Queue-imbalance predictability measured on the venue is injected at certified strength, so a null is attributable to the learner: a one-coefficient rule captured 6 to 12 times the materiality threshold; across 18 pre-registered configurations, neither agent captured any of it. 276 unit tests in CI, every reported number traceable to a checksummed archive.
 
 ### [130/30 Multi-Factor Equity Strategy](https://github.com/FardeenIdrus/130-30-Multi-Factor-Strategy)
 Sector-neutral 130/30 long-short equity strategy with Dockerised data infrastructure (PostgreSQL, MongoDB, MinIO) and walk-forward backtesting across 23 scenarios. Combines Value, Quality, Momentum, and Low Volatility factors with IC-based dynamic weighting, EWMA volatility-adjusted weights, and realistic transaction cost modelling. 542 tests at 99% coverage.
@@ -79,4 +82,4 @@ Generates institutional-grade investment memos with multi-scenario forward analy
 
 ---
 
-*Currently pursuing MSc in Digital Finance & Banking, focusing on AI applications in quantitative finance, blockchain, and decentralized systems.*
+*Currently pursuing MSc in Banking & Digital Finance, focusing on AI applications in quantitative finance, blockchain, and decentralized systems.*
